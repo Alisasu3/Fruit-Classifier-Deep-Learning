@@ -10,8 +10,5 @@ __pycache__/
 # OS
 .DS_Store
 
-# ML models
+# ML artifacts
 *.h5
-*.pt
-*.ckpt
-*.onnx
